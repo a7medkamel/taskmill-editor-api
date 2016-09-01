@@ -25,6 +25,7 @@
     "lodash": "^4.15.0",
     "mongoose": "^4.5.10",
     "redis": "^2.6.2",
+    "taskmill-core-codedb-sdk": "git+https://github.com/a7medkamel/taskmill-core-codedb-sdk.git",
     "winston": "^2.2.0"
   }
 }

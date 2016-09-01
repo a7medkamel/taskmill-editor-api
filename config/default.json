@@ -1,5 +1,8 @@
 {
   "editor" : {
     "port" : "8020"
+  },
+  "codedb" : {
+    "url"  : "http://code.breadboard.io:8585"
   }
 }

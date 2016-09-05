@@ -18,12 +18,12 @@
   "homepage": "https://github.com/a7medkamel/taskmill-editor-api#readme",
   "dependencies": {
     "ascoltatori": "^3.0.2",
-    "bluebird": "^3.4.3",
+    "bluebird": "^3.4.6",
     "config": "^1.21.0",
     "config-url": "git+https://github.com/a7medkamel/config-url.git",
     "express": "^4.14.0",
     "lodash": "^4.15.0",
-    "mongoose": "^4.5.10",
+    "mongoose": "^4.6.0",
     "redis": "^2.6.2",
     "taskmill-core-codedb-sdk": "git+https://github.com/a7medkamel/taskmill-core-codedb-sdk.git",
     "winston": "^2.2.0"

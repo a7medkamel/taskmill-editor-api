@@ -1,6 +1,9 @@
 {
   "editor" : {
-    "port" : "8020"
+    "port" : "8020",
+    "mongo" : {
+      "url" : "[MONGODB_URL]"
+    }
   },
   "codedb" : {
     "url"  : "http://code.breadboard.io:8585"
